@@ -1,5 +1,10 @@
 # VPS-MONITORING-BOT---INSTALLER
 
+# UPDATE & UPGRADE SYSTEM 
+```bash
+wget https://raw.githubusercontent.com/winzzy12/VPS-MONITORING-BOT---INSTALLER/main/update_packages.sh && chmod +x update_packages.sh && ./update_packages.sh
+```
+
 # Installasi
 ```bash
 wget https://raw.githubusercontent.com/winzzy12/VPS-MONITORING-BOT---INSTALLER/main/install_vps_monitoring.sh && chmod +x install_vps_monitoring.sh && ./install_vps_monitoring.sh
